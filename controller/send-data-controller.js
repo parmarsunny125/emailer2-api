@@ -18,7 +18,7 @@ export const sendData = async(req, res) => {
   // Define the email options
   const mailOptions = {
     from: 'parmarsunny125@gmail.com',
-    to: 'timepasste9@gmail.com',
+    to: 'info@redpositive.in',
     subject: 'Selected Data',
     html: `<h1>Table of Data</h1>
     <table>
